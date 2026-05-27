@@ -88,7 +88,8 @@ to recommend songs similar to the selected song.
 
 ## 📸 Preview
 
-Add your project screenshots here.
+<img width="1912" height="801" alt="image" src="https://github.com/user-attachments/assets/d991dfba-059a-4cfd-b85e-d45dfddd6991" />
+
 
 ---
 
