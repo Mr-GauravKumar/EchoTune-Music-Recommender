@@ -9,6 +9,9 @@ EchoTune is a modern music recommendation system built using Machine Learning an
 It recommends similar songs based on cosine similarity and provides a clean interactive UI experience.
 
 ---
+🚀 Live Demo
+---
+🌐 Live Application: https://echotune-music-recommender.onrender.com/
 
 ## 🚀 Features
 
